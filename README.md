@@ -1,8 +1,7 @@
 
 # MINGA
 
-DELIFOOD is a mobile application that lists the restaurants available in a city chosen by the user
-
+Minga is an e-commerce website that sells electric tables and other office furnitures
 
 ### Frontend
 
