@@ -4,20 +4,20 @@
 DELIFOOD is a mobile application that lists the restaurants available in a city chosen by the user
 
 
-## Frontend
+### Frontend
 
 - React.js
 - Tailwind CSS
 
-## Backend
+### Backend
 
 - Symfony
 - API Platform
 
-## Design
+### Design
 - Figma
 
-## Things I learned making this project
+### Things I learned making this project
 - Interface design
 - API manipulation 
 - Agil methodology
