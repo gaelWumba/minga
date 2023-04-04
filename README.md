@@ -16,7 +16,7 @@ Minga is an e-commerce website that sells electric tables and other office furni
 ### Design
 - Figma
 
-### Things I learned will workking on this project
+### Things I learned will working on this project
 - Interface design
 - API manipulation 
 - Agil methodology
